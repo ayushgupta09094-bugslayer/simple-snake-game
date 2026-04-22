@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    background: #0d0d0d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial;
+    color: white;
+}
+.container {
+    text-align: center;
+}
+canvas {
+    background: #111;
+    border: 3px solid #00ff99;
+    box-shadow: 0 0 25px #00ff99;
+}
+h1 {
+    margin-bottom: 10px;
+}
+.info {
+    margin-top: 10px;
+}
